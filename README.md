@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-irfan-kp-7079a2235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-irfan-kp-7079a2235" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammedirfan0052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammedirfan0052" height="30" width="40" /></a>
-<a href="https://fb.com/muhammed irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammed irfan" height="30" width="40" /></a>
+
 <a href="https://instagram.com/__muhammed__irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__muhammed__irfan" height="30" width="40" /></a>
 </p>
 
